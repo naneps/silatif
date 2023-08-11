@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:getx_pattern_starter/app/common/shape/rounded_container.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:silatif/app/common/shape/rounded_container.dart';
+import 'package:silatif/app/themes/theme.dart';
 
 class XAlert extends StatefulWidget {
   final String messages;

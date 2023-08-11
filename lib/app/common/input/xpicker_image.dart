@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_pattern_starter/app/common/shape/rounded_container.dart';
-import 'package:getx_pattern_starter/app/common/utils.dart';
-import 'package:getx_pattern_starter/app/services/imgae_picker_services.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
+import 'package:silatif/app/common/shape/rounded_container.dart';
+import 'package:silatif/app/common/utils.dart';
+import 'package:silatif/app/services/imgae_picker_services.dart';
+import 'package:silatif/app/themes/theme.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
+import 'package:silatif/app/themes/theme.dart';
 
 class HeadingText extends StatelessWidget {
   String? leftText;

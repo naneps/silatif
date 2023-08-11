@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_pattern_starter/app/common/shape/rounded_container.dart';
-import 'package:getx_pattern_starter/app/common/ui/blink_icon.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
+import 'package:silatif/app/common/shape/rounded_container.dart';
+import 'package:silatif/app/common/ui/blink_icon.dart';
+import 'package:silatif/app/themes/theme.dart';
 
 class ErrorStateView extends StatelessWidget {
   const ErrorStateView({super.key});

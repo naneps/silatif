@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_pattern_starter/app/common/ui/blink_icon.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
+import 'package:silatif/app/common/ui/blink_icon.dart';
+import 'package:silatif/app/themes/theme.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class EmptyStateView extends StatelessWidget {

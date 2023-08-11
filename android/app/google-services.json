@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162530700482",
+    "project_id": "silatif-c3dba",
+    "storage_bucket": "silatif-c3dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162530700482:android:1d245d44da253853571f5b",
+        "android_client_info": {
+          "package_name": "com.silatif.startsheep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162530700482-vs5jno0k0khh51cch8cemekvh938dvdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRmbAmKJARheqmiEbAiwvhCkALI5xBAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162530700482-vs5jno0k0khh51cch8cemekvh938dvdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

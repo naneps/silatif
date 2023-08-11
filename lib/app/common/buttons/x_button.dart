@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_pattern_starter/app/themes/theme.dart';
+import 'package:silatif/app/themes/theme.dart';
 
 // ignore: must_be_immutable
 class XButton extends StatelessWidget {

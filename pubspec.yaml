@@ -1,4 +1,4 @@
-name: getx_pattern_starter
+name: silatif
 version: 1.0.0+1
 publish_to: none
 description: A new Flutter project.
@@ -22,6 +22,9 @@ dependencies:
   flutter_slidable: ^3.0.0
   dotted_border: ^2.0.0+3
   cached_network_image: ^3.2.3
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.8.4
+  firebase_auth: ^4.7.2
 
 dev_dependencies:
   flutter_lints: ^2.0.0

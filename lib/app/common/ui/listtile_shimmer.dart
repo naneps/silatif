@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:getx_pattern_starter/app/common/buttons/x_Icon_button.dart';
+import 'package:silatif/app/common/buttons/x_Icon_button.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 import 'package:shimmer/shimmer.dart';
 
