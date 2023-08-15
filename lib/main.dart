@@ -20,8 +20,8 @@ void main() async {
   runApp(
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Application",
-      initialRoute: Routes.AUTH,
+      title: "Silatif",
+      initialRoute: Routes.HOME,
       getPages: AppPages.routes,
       theme: ThemeApp.defaultTheme,
     ),

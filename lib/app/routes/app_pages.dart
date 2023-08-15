@@ -35,7 +35,7 @@ class AppPages {
     ),
     GetPage(
       name: _Paths.CORE,
-      page: () => CoreView(),
+      page: () => const CoreView(),
       binding: CoreBinding(),
     ),
     GetPage(

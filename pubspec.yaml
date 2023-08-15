@@ -10,12 +10,9 @@ dependencies:
   get: 4.6.4
   image_picker: 0.8.6
   sp_util: 2.0.3
-  google_fonts: 3.0.1
   material_design_icons_flutter: 6.0.7096
   location: 4.4.0
   geolocator: 9.0.2
-  flutter:
-    sdk: flutter
   intl: ^0.18.0
   loading_animation_widget: ^1.2.0+4
   shimmer: ^3.0.0
@@ -25,6 +22,12 @@ dependencies:
   firebase_core: ^2.15.0
   cloud_firestore: ^4.8.4
   firebase_auth: ^4.7.2
+  google_fonts: 5.1.0
+  flutter:
+    sdk: flutter
+  step_progress_indicator: ^1.0.2
+  swipable_stack: ^2.0.0
+  appinio_swiper: ^2.0.2
 
 dev_dependencies:
   flutter_lints: ^2.0.0
